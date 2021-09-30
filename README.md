@@ -1,6 +1,6 @@
 # JPG-secret-message-encoder
 
-This is a tool to write hidden messages on images,Can be seen only using hex editors on image
+This is a tool to write hidden messages on (JPG) images, Can be seen only using hex editors on image
 
 It works easily with this 3 steps:
 
